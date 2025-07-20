@@ -1,5 +1,5 @@
-# 📊 Amazon Prime Data Analysis
-Welcome to the Amazon_Prime_data_analysis project! This repository contains a comprehensive visual analysis of Amazon Prime's large dataset, using Power BI to uncover key insights about titles, ratings, genres, countries, release trends, and more.
+# 📊 Amazon Prime Dashboard
+Welcome to the Amazon_Prime_Dashboard project! This repository contains a comprehensive visual analysis of Amazon Prime's large dataset, using Power BI to uncover key insights about titles, ratings, genres, countries, release trends, and more.
 
 ## 📁 About the Project
 This project focuses on leveraging the rich dataset of Amazon Prime video content to build an interactive and insightful dashboard. Using Power BI, we visualized various metrics that help understand content distribution, trends, and patterns over the years
@@ -50,10 +50,10 @@ Building a clean, visual data storytelling experience.
 ## 🚀 Getting Started
 If you’d like to explore the dashboard:
 
-. Download and open the .pbix file using Power BI Desktop.
+Download and open the .pbix file using Power BI Desktop.
 
-. Load the dataset if needed and refresh visuals.
+Load the dataset if needed and refresh visuals.
 
-. Interact with filters and slicers to explore different insights.
+Interact with filters and slicers to explore different insights.
 
 ###### "Data is the new oil, and visualizations are its refinery."
